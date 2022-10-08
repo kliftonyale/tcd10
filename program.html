@@ -1,0 +1,41 @@
+---
+layout: default
+title: Program
+---
+
+<h1>The Program</h1>
+
+
+<!--   <a href="https://www.youtube.com/channel/UCjZ0XkdeiUkTm5QBPK86Hdw">YouTube Video Archive &#x1F4F9;</a> -->
+
+  <!-- <br> -->
+  <br>
+
+
+
+
+
+  {% for item in site.program %}
+  
+    <li class="slot">
+      <span class="slot-title"><a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+      </a></span><br>
+      <span>{{ item.participants }}</span><br>
+      <span>{{ item.slot }}</span><br>
+    </li>
+  {% endfor %}
+
+<h2>Friday, 4 December</h2>
+<p>via Zoom</p>
+
+  </ul>
+
+<br>
+
+
+
+  </ul>
+
+
+

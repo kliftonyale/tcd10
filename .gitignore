@@ -1,0 +1,5 @@
+.DS_Store
+RAKEFILE
+_site
+.jekyll-cache
+.sass-cache

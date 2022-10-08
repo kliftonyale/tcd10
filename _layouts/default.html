@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+        {{ content }}
+    </div>
+	
+	{% include footer.html %}
+	<script type="text/javascript" src="{{site.baseurl}}/js/main.js"/>
+
+	// adds a target="_blank" to any link that is not part of the current domain
+
+	</script>
+  </body>
+  
+</html>

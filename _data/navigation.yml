@@ -1,0 +1,17 @@
+- title: Home
+  url: /
+- title: Participants
+  url: /participants/
+- title: The Team
+  url: /team/
+# - title: Live Feed
+#   url: /live-feed/
+- title: Program
+  url: \#
+  sublinks:
+    - title: "Schedule"
+      url: /schedule/
+    - title: "Grainger"
+      url: /grainger/
+    - title: "CariDiScho"
+      url: /directory/

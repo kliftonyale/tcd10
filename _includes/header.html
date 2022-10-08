@@ -1,0 +1,32 @@
+<header class="site-header">
+  <nav>
+    <ul id="navigation-bar">
+    {% assign links = site.data.navigation %}
+        {% for link in links %}
+            {% assign class = nil %}
+            {% if page.url contains link.url %}
+                {% assign class = 'active' %}
+            {% endif %}
+            {% if link.sublinks %}
+                <li class="menu-item dropdown">
+                    <a href="#" class="dropdown-button" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span style="font-size: 0.66rem; padding-left: 0.2rem;"> &#x25BC;</span></a>
+                    <div class="dropdown-menu">
+                        {% for sublink in link.sublinks %}
+                        <a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
+                        {% endfor %}
+                    </ul>
+                </li>
+            {% else %}
+                <li class="menu-item">
+                    <a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+                </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+  </nav>
+
+  <div id="fixed-banner"></div>
+
+
+
+</header>
