@@ -11,7 +11,5 @@
   sublinks:
     - title: "Schedule"
       url: /schedule/
-    - title: "Grainger"
-      url: /grainger/
-    - title: "CariDiScho"
-      url: /directory/
+    - title: "Workshop"
+      url: /workshop/
