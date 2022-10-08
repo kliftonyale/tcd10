@@ -39,4 +39,4 @@ Closing remarks by Kaiama L. Glover, Kelly Baker Josephs, Alex Gil
 
 ## Celebration at El Bastión
 ### 6PM--9PM
-With remarks by Marina Shareef (Alice Yard)
+With remarks by Marinna Shareef (Alice Yard)
