@@ -9,42 +9,30 @@ permalink: /schedule/
 
 ## Welcome
 
-### 1--1:15PM
+### 10:00AM--10:30AM
+Welcome remarks by Dean Agnes Bosch, College of Humanities; followed by organizers Nadjah Rio and Mirerza Gonzalez
 
-## First Panel: Community and Institutions
+## First Panel
 
-### 1:15--2:00PM
+### 10:30AM--11:45AM
 
-A plenary discussion concerning the role of digital scholarship in substantively integrating and engaging with Caribbean communities in building Afro-diasporic institutions.
+**Data as Memory and Memory as Data in the Caribbean**   
+Alex Gil (Moderator); Stephanie Chancy, Nicté Fuller Medina, Jessica Marie Johnson and Sarah E. Bruno
 
-- Regine Michelle Jean-Charles (Northeastern University)
-- Minkah Makalani (Johns Hopkins University)
-- Matthew J. Smith (University College of London)
+## Lunch 
+### 12:00 PM--13:30		
+Comedores Sociales
 
-## Interlude: Annotating Grainger
+## Second Panel
+### 1:30PM--2:45PM		
 
-### 2:00--2:20PM
+**State of Emergency: the role of digital humanities projects in the documentation of self-governance and sustainable policies and practices in Puerto Rico, 2017-2022 | Estado de Emergencia: el rol de las humanidades digitales en la documentación de las políticas y prácticas de autogestión sostenible en Puerto Rico 2017-2022**	
+Hilda Ayala, Joel Blanco, Valeria Fernandez, Jeanmarie Lugo
 
-A presentation on the week-long annotation of _Digital Grainger_.
+## 2023 Microgrants Awardees Announcement
+### 3:00PM--3:20PM
+Andreína Soto
 
-- Julie Kim (Fordham University)
-- Kimberly Takahata (Villanova University)
-
-## Comfort Break
-
-### 2:20--2:30PM
-
-## Second Panel: Whereto Our Cultural and Historical Data
-
-### 2:30--3:20PM
-
-A plenary discussion concerning the present scope of Caribbean digital libraries and archives, and what futures we may dream of together as a Caribbean community.
-
-- Aida Montero (Biblioteca Juan Bosch)
-- Margo Groenewoud (University of Curaçao)
-- Vidyaratha Kissoon (Caribbean IRN)
-- Hadassah St. Hubert (National Endowment for the Humanities)
-
-## Concluding Remarks
-
-### 3:20--3:30PM
+## Closing Remarks
+### 3:20--3:30 PM		
+Closing remarks by Kaiama L. Glover, Kelly Baker Josephs, Alex Gil
