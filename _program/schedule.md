@@ -26,7 +26,7 @@ Comedores Sociales
 ## Second Panel
 ### 1:30PM--2:45PM		
 
-**State of Emergency: the role of digital humanities projects in the documentation of self-governance and sustainable policies and practices in Puerto Rico, 2017-2022 | Estado de Emergencia: el rol de las humanidades digitales en la documentación de las políticas y prácticas de autogestión sostenible en Puerto Rico 2017-2022**	
+**State of Emergency: the role of digital humanities projects in the documentation of self-governance and sustainable policies and practices in Puerto Rico, 2017-2022 | Estado de Emergencia: el rol de las humanidades digitales en la documentación de las políticas y prácticas de autogestión sostenible en Puerto Rico 2017-2022**   
 Hilda Ayala, Joel Blanco, Valeria Fernandez, Jeanmarie Lugo
 
 ## 2023 Microgrants Awardees Announcement
