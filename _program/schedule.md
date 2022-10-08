@@ -36,3 +36,7 @@ Andreína Soto
 ## Closing Remarks
 ### 3:20--3:30 PM		
 Closing remarks by Kaiama L. Glover, Kelly Baker Josephs, Alex Gil
+
+## Celebration at El Bastión
+### 6PM--9PM
+With remarks by Marina Shareef (Alice Yard)
