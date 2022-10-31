@@ -15,7 +15,7 @@ permalink: /workshop/
 
   <p>In this two hour workshop, we will examine available options for building digital collections online with small to medium teams. In particular we will do a comparison of Omeka and Wax, and consider the pros and cons. We will also build together a small sample collection using a simple spreadsheet, in order to illustrate the many questions that underlie data curation: epistemology, ontology, taxonomy, data types and more.</p>
 
-  <p class="aligncenter"><a href="" target="_blank"><button style="margin-right: 20px">Sign up for the Workshop</button></a></p>
+  <p class="">All are welcome! Todos son bienvenidos!</p>
 
 <br>
 
