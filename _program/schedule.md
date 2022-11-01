@@ -7,36 +7,42 @@ participants: "All"
 permalink: /schedule/
 ---
 
-## Welcome
+## Welcome <span  style="color: gray">| Bienvenida</span>
 
 ### 10:00AM--10:30AM
 Welcome remarks by Dean Agnes Bosch, College of Humanities; followed by organizers Nadjah Rio and Mirerza Gonzalez
 
-## First Panel
+## First Panel <span  style="color: gray">| Primer Panel</span>
 
 ### 10:30AM--11:45AM
 
-**Data as Memory and Memory as Data in the Caribbean**   
+**Data as Memory and Memory as Data in the Caribbean**
+
+<p style="color: gray">Data como memoria, y memoria como data en el Caribe</p>
+
 Alex Gil (Moderator); Stephanie Chancy, Nicté Fuller Medina, Jessica Marie Johnson and Sarah E. Bruno
 
-## Lunch 
+## Lunch <span  style="color: gray">| Almuerzo</span>
 ### 12:00 PM--13:30		
 Comedores Sociales
 
-## Second Panel
-### 1:30PM--2:45PM		
+## Second Panel <span  style="color: gray">| Segundo Panel</span>
+### 1:30PM--2:45PM
 
-**State of Emergency: the role of digital humanities projects in the documentation of self-governance and sustainable policies and practices in Puerto Rico, 2017-2022 | Estado de Emergencia: el rol de las humanidades digitales en la documentación de las políticas y prácticas de autogestión sostenible en Puerto Rico 2017-2022**   
+**Estado de Emergencia: el rol de las humanidades digitales en la documentación de las políticas y prácticas de autogestión sostenible en Puerto Rico 2017-2022**
+
+<p style="color: gray">State of Emergency: the role of digital humanities projects in the documentation of self-governance and sustainable policies and practices in Puerto Rico, 2017-2022</p>
+
 Hilda Ayala, Joel Blanco, Valeria Fernandez, Jeanmarie Lugo
 
-## 2023 Microgrants Awardees Announcement
+## 2023 Microgrants Awardees Announcement <span  style="color: gray">| Anuncio de los ganadores de las micro-becas</span>
 ### 3:00PM--3:20PM
 Andreína Soto
 
-## Closing Remarks
+## Closing Remarks <span  style="color: gray">| Clausura</span>
 ### 3:20--3:30 PM		
 Closing remarks by Kaiama L. Glover, Kelly Baker Josephs, Alex Gil
 
-## Celebration at El Bastión
+## Celebration at El Bastión <span  style="color: gray">| Fiesta!</span>
 ### 6PM--9PM
 With remarks by Marinna Shareef (Alice Yard)
