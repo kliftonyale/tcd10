@@ -1,7 +1,7 @@
 - title: Home
   url: /
-- title: Participants
-  url: /participants/
+# - title: Participants
+#   url: /participants/
 - title: The Team
   url: /team/
 # - title: Live Feed

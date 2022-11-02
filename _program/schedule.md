@@ -10,7 +10,7 @@ permalink: /schedule/
 ## Welcome <span  style="color: gray">| Bienvenida</span>
 
 ### 10:00AM--10:30AM
-Welcome remarks by Dean Agnes Bosch, College of Humanities; followed by organizers Nadjah Rio and Mirerza Gonzalez
+Welcome remarks by Dean Agnes Bosch, College of Humanities; followed by organizers Nadjah Ríos Villarini and Mirerza González Vélez
 
 ## First Panel <span  style="color: gray">| Primer Panel</span>
 
@@ -45,4 +45,4 @@ Closing remarks by Kaiama L. Glover, Kelly Baker Josephs, Alex Gil
 
 ## Celebration at El Bastión <span  style="color: gray">| Fiesta!</span>
 ### 6PM--9PM
-With remarks by Marinna Shareef (Alice Yard)
+With presentation by Marinna Shareef, TCD artist in residence
