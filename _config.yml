@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "#TCDIX"
+title: "#TCDX"
 author: "Alex Gil"
 email: colibri.alex@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Our ninth annual conference dedicated to Caribbean digital studies.
-baseurl: "/2022" # the subpath of your site, e.g. /blog
+  Our tenth anniversary conference dedicated to Caribbean digital studies.
+baseurl: "/2023" # the subpath of your site, e.g. /blog
 url: "http://caribbeandigitalnyc.net" # the base hostname & protocol for your site
 twitter_username: elotroalex
 github_username: elotroalex
