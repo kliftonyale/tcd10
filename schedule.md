@@ -4,7 +4,10 @@ title: "Schedule"
 permalink: /schedule/
 ---
 
-## Thursday, December 7, 2023 ### Welcome **1:15PM--1:30PM** Welcome remarks by
+## Thursday, December 7, 2023
+
+### Welcome **1:15PM--1:30PM** Welcome remarks by
+
 Alex Gil and Kaiama Glover. ### Opening Showcase **1:30PM--3:00PM** ### Break
 **3:00PM--3:15PM** ### Panel A: Archives **3:15PM--4:15PM** ### Break
 **4:15PM--4:30PM** ### Keynote Dialogue **4:30PM--6:00PM** ### Opening Reception
@@ -13,6 +16,7 @@ Alex Gil and Kaiama Glover. ### Opening Showcase **1:30PM--3:00PM** ### Break
 <br />
 
 ## Friday, December 8, 2023 ### Coffee **9:00AM--9:15AM** ### Opening Remarks
+
 **9:15AM--9:30AM** Opening remarks by Alex Gil. ### Panel B: Collaboration
 **9:30AM--11:00AM** ### Break **11:00AM--11:15AM** ### Panel C: Theory
 **11:15AM--12:45PM** ### Lunch (Different Room) **12:45PM--1:45PM** ### Panel D:

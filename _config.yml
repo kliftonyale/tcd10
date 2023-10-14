@@ -20,7 +20,7 @@ permalink: pretty
 
 collections:
   program:
-    output: true
+    output: false
 
 # Build settings
 markdown: kramdown

@@ -4,7 +4,6 @@ title: "Schedule"
 session: 0
 slot: ""
 participants: "All"
-permalink: /schedule/
 ---
 
 ## Thursday, December 7, 2023
