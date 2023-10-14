@@ -6,10 +6,5 @@
   url: /team/
 # - title: Live Feed
 #   url: /live-feed/
-- title: Program
-  url: \#
-  sublinks:
-    - title: "Schedule"
-      url: /schedule/
-    - title: "Workshop"
-      url: /workshop/
+- title: Schedule
+  url: /schedule/
