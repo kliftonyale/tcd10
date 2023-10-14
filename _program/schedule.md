@@ -7,42 +7,47 @@ participants: "All"
 permalink: /schedule/
 ---
 
-## Welcome <span  style="color: gray">| Bienvenida</span>
+## Thursday, December 7, 2023
 
-### 10:00AM--10:30AM (AST)
-Welcome remarks by Dean Agnes Bosch, College of Humanities; followed by organizers Nadjah Ríos Villarini and Mirerza González Vélez
+### Welcome
 
-## First Panel <span  style="color: gray">| Primer Panel</span>
+**1:15PM--1:30PM**
 
-### 10:30AM--11:45AM (AST)
+Welcome remarks by Alex Gil and Kaiama Glover.
 
-**Data as Memory and Memory as Data in the Caribbean**
+### Opening Showcase
 
-<p style="color: gray">Data como memoria, y memoria como data en el Caribe</p>
+**1:30PM--3:00PM**
 
-Alex Gil (Moderator); Stephanie Chancy, Nicté Fuller Medina, Jessica Marie Johnson and Sarah E. Bruno
+### Break
 
-## Lunch <span  style="color: gray">| Almuerzo</span>
-### 12:00 PM--13:30	(AST)	
-Comedores Sociales
+**3:00PM--3:15PM**
 
-## Second Panel <span  style="color: gray">| Segundo Panel</span>
-### 1:30PM--2:45PM (AST)
+### Panel A: Archives
 
-**Estado de Emergencia: el rol de las humanidades digitales en la documentación de las políticas y prácticas de autogestión sostenible en Puerto Rico 2017-2022**
+**3:15PM--4:15PM**
 
-<p style="color: gray">State of Emergency: the role of digital humanities projects in the documentation of self-governance and sustainable policies and practices in Puerto Rico, 2017-2022</p>
+### Break
 
-Hilda Ayala, Joel Blanco, Valeria Fernandez, Jeanmarie Lugo
+**4:15PM--4:30PM**
 
-## 2023 Microgrants Awardees Announcement <span  style="color: gray">| Anuncio de los ganadores de las micro-becas</span>
-### 3:00PM--3:20PM (AST)
-Andreína Soto
+### Keynote Dialogue
 
-## Closing Remarks <span  style="color: gray">| Clausura</span>
-### 3:20--3:30 PM (AST)	
-Closing remarks by Kaiama L. Glover, Kelly Baker Josephs, Alex Gil
+**4:30PM--6:00PM**
 
-## Celebration at El Bastión <span  style="color: gray">| Fiesta!</span>
-### 6PM--9PM (AST)
-With presentation by Marinna Shareef, TCD artist in residence
+## Opening Reception
+
+**6:00PM--7:00PM**
+
+---
+
+# Friday, December 8, 2023
+
+Day 2
+coffee + lunch + coffee  
+four panels (two morning, two afternoon) (big room)
+2023-24 micro-grant announcement
+closing remarks
+closing event (different venue)
+
+[artist installation running throughout day 1 and day 2 ]
