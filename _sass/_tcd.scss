@@ -112,13 +112,17 @@ hr {
 /* Banner Image */
 
 header #fixed-banner {
-  background: url("../images/banner.jpg") no-repeat bottom left fixed;
+  background: url("../images/banner.jpg") no-repeat;
   height: 600px;
   width: 100;
+  background-position: center; 
 
   @media screen and (min-width: 1200px) {
     background: url("../images/banner.jpg") no-repeat fixed;
     background-size: cover;
+    height: 600px;
+    width: 100;
+    background-position: center; 
   }
 }
 
