@@ -6,96 +6,195 @@ slot: ""
 participants: "All"
 ---
 
-## Thursday, December 7, 2023
+Thursday, December 7, 2023
 
-### Welcome
+**Welcome**
 
 **1:15PM--1:30PM**
 
-Welcome remarks by Alex Gil and Kaiama Glover.
+Welcome remarks by organizers Alex Gil and Kaiama Glover.
 
-### Opening Showcase
+**Opening Showcase**
 
 **1:30PM--3:00PM**
 
-### Break
+**Tania M. Ríos Marrero**, Digital Library of the Caribbean, University
+of Florida
 
-**3:00PM--3:15PM**
+"The Revitalizing dLOC Initiative (2022-2026)"
 
-### Panel A: Archives
+**Mirerza González Vélez** and **Mila Aponte-González**, University of
+Puerto Rico at Río Piedra
 
-**3:15PM--4:15PM**
+"Acervos Documentales de Puerto Rico y el Caribe"
 
-### Break
+**Waleska Solorzano**, Cornell University
 
-**4:15PM--4:30PM**
+\"The Venesporan Artists Project (VAP)\"
 
-### Keynote Dialogue
+**Valeria Acevedo Argüelles** and **Pat Santalices Torres**, University
+of Puerto Rico at Río Piedra
 
-**4:30PM--6:00PM**
+\"Las caras lindas de Santurce\"
 
-### Opening Reception
+**BREAK 3:00PM--3:15PM**
 
-**6:00PM--7:00PM**
+**Panel A: Archives 3:15PM--4:15PM**
 
-<br>
+**Rebecca Roach**, University of Birmingham
 
-## Friday, December 8, 2023
+\"Brathwaite's Creole Computing\"
 
-### Coffee
+**Margaret Brehony**, Concordia University
 
-**9:00AM--9:15AM**
+"Cuba Ireland Digital Archive: Re-collect, Visualise and
+Re-contextualise"
 
-### Opening Remarks
+**Ocean V. Arboniés Flores,** University of Illinois
 
-**9:15AM--9:30AM**
+\"The Forgotten 'Digital Familia de Puerto Rico': Towards an Archival
+Recovery of Conveniently Absent Histories of Digital Technology in the
+Caribbean\"
 
-Opening remarks by Alex Gil.
+**BREAK 4:15PM--4:30PM**
 
-### Panel B: Collaboration
+**Keynote Dialogue 4:30PM--6:00PM**
 
-**9:30AM--11:00AM**
+\"Challenges in Caribbean DH"
 
-### Break
+**Natasha J Lightfoot**, Columbia University
 
-**11:00AM--11:15AM**
+**Nicole Aljoe**, Northeastern University
 
-### Panel C: Theory
+**Opening Reception 6:00PM--7:00PM**
 
-**11:15AM--12:45PM**
+Ruben Cabenda, Artis in Residence presentation 
 
-### Lunch (Different Room)
+Friday, December 8, 2023
 
-**12:45PM--1:45PM**
+**COFFEE 9:00AM--9:15AM**
 
-### Panel D: Pedagogy
+**Opening Remarks 9:15AM--9:30AM**
 
-**1:45PM--3:15PM**
+Opening remarks by organizer Alex Gil.
 
-### Break
+**Panel B: Collaboration 9:30AM--11:00AM**
 
-**3:15PM--3:30PM**
+**Taller Entre Aguas\' Registro Project Team**
 
-### Panel E: Practice
+\"Taller Entre Aguas: Theory and Praxis in the Digital Revisitation of
+the 1872 Registro de Esclavos of Puerto Rico\"
 
-**3:30PM--5:00PM**
+**Early Caribbean Digital Archive Project Team**
 
-### Break
+"A Point of Entry: Re-presenting Enslaved Lives in the Early Caribbean
+Digital Archive"
 
-**5:00PM--5:15PM**
+**BREAK 11:00AM--11:15AM**
 
-### Special: Artist/Scholar Conversation
+**Panel C: Theory 11:15AM--12:45PM**
 
-**5:15PM--5:35PM**
+**Rachel M. Kirk**, Louisiana State University
 
-### Microgrant Showcase
+\"Sybil Kein, Climate Coloniality, and the Preservation of Louisiana
+Creole Culture in the
 
-**5:45PM--6:30PM**
+Digital\"
 
-### Microgrant Announcement & Closing Remarks
+**Jeannine Murray-Román**, Florida State University
 
-**6:30PM--7:00PM**
+"Making Counter-plantation in Rosaura Rodríguez\'s Instagram stories"
 
-### Dinner
+**Michael Soriano**, University of Miami
 
-Artist installation running throughout day 1 and day 2
+"Digital Poetics: Toward a Glissantian Theory of Digital Design"
+
+**Samantha Stephens**, University of Virginia
+
+"Rebellious Black Feminist Technologies"
+
+**LUNCH 12:45PM--1:45PM**
+
+**Panel D: Pedagogy 1:45PM--3:15PM**
+
+**Malisa Richards**, Dominica State College
+
+\"Instructional Design Strategies for Integrating Virtual Reality
+Technology in the Computer Networking Curricula - Best Practices to
+Improve Student Learning Outcomes\"
+
+**Matthew J. Smith, Matthew Stallard,** and **Jess Hannah**, Centre for
+the Study of the Legacies of British Slavery, University College London
+
+"New World Royalists"
+
+**Mila Aponte-González**, University of Puerto Rico at Río Piedra
+
+"¿Cómo le meto mano a esto?: Teaching Minimal Processing of Cultural
+Heritage Collections in Puerto Rico through a Digital Humanities
+(Co)Laboratory"
+
+**Juan Carlos Rodríguez**, Georgia Institute of Technology
+
+\"Using the Vieques Struggle: A Digital video Archive as Research,
+Teaching, and Documentary Platform\"
+
+**BREAK 3:15PM--3:30PM**
+
+**Panel E: Practice 3:30PM--5:00PM**
+
+**Kaillee Coleman**, Tulane University
+
+\"When I Am Not Here, Estoy Allá: Visualizing Expansive Space-Time in
+Caribbean Diasporic Memory\"
+
+**Yveline Alexis**, Oberlin College
+
+"Haiti versus US Empire"
+
+**Audra A. Diptée**, Carleton University
+
+\"Operation Legacy in the Caribbean: A Digital Archive\"
+
+**Burton Sankeralli**, St Andrew\'s Theological College and **N. Fadeke
+Castor** \", Trinidad Northeastern University 
+
+"Trinidad Orisha Shrine Mapping Project"
+
+**Break 5:00PM--5:15PM**
+
+**Special: Artist/Scholar Conversation 5:15PM--5:35PM**
+
+**Alicia Doyen-Rodríguez**, Emory University
+
+\"Empreintes d\'art dans la ville (Art footprints in the city): digital
+collaboration with Guy Gabon\"
+
+**Microgrant Showcase 5:45PM--6:30PM**
+
+**Maria Corredor** and **Ernesto Bassi**, Princeton University
+
+"Atlantic Seascapes" 
+
+**Elise Mitchell**, Swarthmore College
+
+"Smallpox and Slavery in the Modern Atlantic World"
+
+**Nicte Fuller-Medina**, Swarthmore College and **Kevin Montero**,
+Belize Archives and Records Service
+
+"Belize Archives Digital Archive"
+
+**Sarah Bruno**, Michigan State University and **Rosa Emilia Cordero
+Cruz**, Rutgers University
+
+"The Criadas Project: Archival Silhouettes"
+
+**Anaridia Molina**, University of Michigan
+
+\"Digitizing the Association of Caribbean Women Writers and Scholars'
+Archive\"
+
+**Microgrant Announcement & Closing Remarks 6:30PM--7:00PM**
+
+**Closing Reception 7:00PM--8:30PM**
